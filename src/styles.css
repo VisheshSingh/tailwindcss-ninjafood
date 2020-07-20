@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 .card {
-  @apply bg-white rounded overflow-hidden shadow-md relative mb-5;
+  @apply bg-white rounded overflow-hidden shadow-md relative mb-5 cursor-pointer;
 }
 
 .badge {
